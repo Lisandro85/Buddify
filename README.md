@@ -51,7 +51,6 @@
 - [Node.js](https://nodejs.org/) (v16 o superior)
 - [PostgreSQL](https://www.postgresql.org/) (v13 o superior)
 - [Git](https://git-scm.com/)
-- [Yarn](https://yarnpkg.com/) (opcional)
 
 ### Backend
 
