@@ -49,18 +49,16 @@
 
 ### Backend
 
-1. Clona el repositorio:
+Clona el repositorio:
    ```env
    git clone https://github.com/Lisandro85/Buddify
     ```
-
-
-2. Instala las dependencias:
+Instala las dependencias:
    ```env
 npm install
  ```
-
-3. Configura las variables de entorno en un archivo .env:
+---
+ Configura las variables de entorno en un archivo .env:
 
 ```env
 Copiar código
@@ -72,12 +70,13 @@ DATABASE_NAME=buddify
 JWT_SECRET=tu_clave_secreta
 PORT=3000
 ```
-
-4. Inicia el servidor:
+---
+Inicia el servidor:
 ```env
 npm run start
 ```
-Frontend
+---
+### Frontend
 
 Clona el repositorio:
 ```env
