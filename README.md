@@ -76,7 +76,7 @@ PORT=3000
 4. Inicia el servidor:
 ```env
 npm run start
-
+```
 Frontend
 
 Clona el repositorio:
