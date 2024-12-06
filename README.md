@@ -65,7 +65,6 @@ npm install
  Configura las variables de entorno en un archivo .env:
 
 ```env
-Copiar código
 DATABASE_HOST=localhost
 DATABASE_PORT=5432
 DATABASE_USER=tu_usuario
@@ -85,6 +84,23 @@ npm run start
 Clona el repositorio:
 ```env
 git clone https://github.com/Lisandro85/Buddify
+```
+ Configura las variables de entorno en un archivo .env:
+ 
+```env
+URL_BACK=http://localhost:3001
+URL_FRONT=http://localhost:3000
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=postgres
+DB_PASSWORD=tu password
+DB_DATABASE=buddifydb
+EMAIL_USER="email usuario"
+EMAIL_PASS="contraseña usuario"
+JWT_SECRET=tu password
+GOOGLE_CLIENTE_ID=preguntePORWSP
+GOOGLE_SECRET=preguntePORWSP
+GOOGLE_CALLBACK_URL=preguntePORWSP
 ```
 Instala las dependencias:
 ```env
