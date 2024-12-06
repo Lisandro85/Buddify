@@ -11,14 +11,6 @@
   - [Requisitos Previos](#requisitos-previos)
   - [Configuración Backend](#backend)
   - [Configuración Frontend](#frontend)
-- [Capturas de Pantalla](#📸-capturas-de-pantalla)
-- [Ejemplos de Uso (API)](#📡-ejemplos-de-uso-api)
-- [Roadmap](#🚧-roadmap)
-- [Licencia](#📄-licencia)
-- [Contribuciones](#🤝-contribuciones)
-- [Testeo](#🧪-testeo)
-- [Agradecimientos](#🙏-agradecimientos)
-
 ---
 
 ## ✨ Características
@@ -61,14 +53,14 @@
    ```bash
    git clone https://github.com/Lisandro85/Buddify
 
-   ```bash
+
 2. Instala las dependencias:
-   
+   ```bash
 npm install
 
-Configura las variables de entorno en un archivo .env:
+3. Configura las variables de entorno en un archivo .env:
 
-env
+```env
 Copiar código
 DATABASE_HOST=localhost
 DATABASE_PORT=5432
@@ -78,14 +70,13 @@ DATABASE_NAME=buddify
 JWT_SECRET=tu_clave_secreta
 PORT=3000
 
-Inicia el servidor:
+4. Inicia el servidor:
 
-npm run start:dev
+npm run start
+
 Frontend
-Clona el repositorio:
 
-bash
-Copiar código
+Clona el repositorio:
 git clone https://github.com/Lisandro85/Buddify
 Instala las dependencias:
 npm install
