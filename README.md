@@ -51,15 +51,15 @@
 
 Clona el repositorio:
 
-   ```env
-   git clone https://github.com/Lisandro85/Buddify
-    ```
+ ```env
+ git clone https://github.com/Lisandro85/Buddify
+ ```
 
 Instala las dependencias:
 
-   ```env
+```env
 npm install
- ```
+```
 
 ---
  Configura las variables de entorno en un archivo .env:
