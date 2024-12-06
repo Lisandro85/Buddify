@@ -71,6 +71,7 @@ DATABASE_PASSWORD=tu_contraseña
 DATABASE_NAME=buddify
 JWT_SECRET=tu_clave_secreta
 PORT=3000
+```
 
 4. Inicia el servidor:
 ```env
@@ -81,11 +82,12 @@ Frontend
 Clona el repositorio:
 ```env
 git clone https://github.com/Lisandro85/Buddify
-
+```
 Instala las dependencias:
 ```env
 npm install
-
+```
 Inicia el servidor:
 ```env
 npm run dev
+```
