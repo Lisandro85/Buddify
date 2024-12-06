@@ -10,12 +10,6 @@
   - [Requisitos Previos](#requisitos-previos)
   - [Configuración Backend](#backend)
   - [Configuración Frontend](#frontend)
-- [Uso](#-uso)
-- [Contribución](#-contribución)
-- [Estado del Proyecto](#-estado-del-proyecto)
-- [Licencia](#️-licencia)
-- [Contacto](#-contacto)
-
 ---
 
 ## ✨ Características
